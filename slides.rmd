@@ -1,58 +1,69 @@
-# relation to body theory;
+# Relation to body theory?
 
-## location and place
+## Bodies in social theory 
 
-> Thus, one cannot really describe the relationship between agents and the world except by placing at the centre the body and the process of incorporation, which both physicalist objectivism and marginalist subjectivism ignore. The structures of the social space (or of fields) shape bodies by inculcating in them , through the conditionings associated with a position in that space, the cognitive structures that these conditionings apply to them. More precisely, the social world, because it is an object of knowledge for those who are included in it, is, in part, the reified or incorporate product of all the different (and rival) acts of knowledge of which it is the object.
+> Thus, one cannot really describe the relationship between agents and the world except by placing at the centre the body and the process of incorporation, which both physicalist objectivism and marginalist subjectivism ignore. The structures of the social space (or of fields) shape bodies by inculcating in them, through the conditionings associated with a position in that space, the **cognitive structures** that these conditionings apply to them. More precisely, the social world, because it is an object of knowledge for those who are included in it, is, in part, the reified or incorporate product of all the different (and rival) acts of knowledge of which it is the object.
 
-Pierre Bourdieu, _Pascalian Meditations_, 183
-
-## body as multiplicity
-
-> The model of the body proposed by the brand of philosophical nomadism I am defending is symbiotic interdependence. This points to the co-presence of different elements, from different stages of evolution: like inhabiting different time-zones simultaneously. The human organism is neither wholly human, nor just an organism. It is an abstract machine, which captures, transforms and produces interconnections. The power of such an organism is certainly neither contained by nor confined to consciousness.
-
-Rosi Braidotti _Metamorphoses: towards a materialist theory of becoming_, 2002, 226
+Pierre Bourdieu, _Pascalian Meditations_,  2000, 183
 
 ## body <-> history
 
 >  The practical sense is carried by the body, where the body is not a mere positive datum, but the repository or the site of an incorporated history.
 
-Judith Butler, _Excitable Speech_, 152
+Judith Butler, _Excitable Speech_, 1997, 152
 
-# Relation to affect theory;
+## body as multiplicity
 
-##  Affect and indeterminacy
+> The model of the body ... I am defending is symbiotic interdependence. This points to the co-presence of different elements, from different stages of evolution: like inhabiting different time-zones simultaneously. The human organism is neither wholly human, nor just an organism. It is an abstract machine, which captures, transforms and produces interconnections. The power of such an organism is certainly neither contained by nor confined to consciousness.
+
+Rosi Braidotti _Metamorphoses: towards a materialist theory of becoming_, 2002, 226
+
+
+# Relation to affect theory?
+
+##  Affect as indeterminacy
 
 >With the affectional experiences ..., the relatively pure condition lasts. In practical no urgent need has yet arise for deciding whether to treat them as rigorously mental or as rigorously physical facts. So they remain equivocal; and, as the world goes, their equivocality is one of their great conveniences.
 
-William James, _Essays in Radical Empiricism_, 146
+William James, _Essays in Radical Empiricism_, 1902, 146
 
-## Concretising abstract ideas of affect
+## Concretising  affect in collectivities, images and media
 
-> The awareness of human collectivities - the awareness of bodies in relation - is not a merely cognitive awareness of bodily change. It is shot  through with emotion - with the awareness of bodily transition to greater or lesser states of activity. Sociability is inherently affective. The incorporation into collectivities which determines our individuality involves affective imitation - dynamic movements of emotional identification and appropriation.
+> The awareness of human collectivities - the awareness of bodies in relation - is not a merely cognitive awareness of bodily change. It is shot  through with emotion - with the awareness of bodily transition to greater or lesser states of activity. Sociability is inherently affective. The incorporation into collectivities which determines our individuality involves **affective imitation** - dynamic movements of emotional identification and appropriation.
 
-Moira Gatens, _Corporeal Imaginaries_, 7
+Moira Gatens, _Imaginary Bodies_, 1995,  7
 
-## what happens to psychoanalytic account;
+# Relation to psychoanalytic accounts?
 
-# What is the relation to the science?
+> One makes affective bargains about the costliness of one’s attachments, usually unconscious ones, most of which keep one in proximity to the scene of desire/attrition. 21
 
-## neuroscience as social practice?
-- problem for some body/affect theory: tends to de-situate scientific practice
+Lauren Berlant, _Cruel Optimism_, 2007, 21
+
+# Relation to science studies?
+
+
+## Neuroscience and social practice?
+
 - many uptakes/embraces/appropriation of neuro:
-    - neuro-economics
+    - neuroeconomics/neuromarketing 
     - neuro-cognitive film studies;
     - neuro-political theory (Connolly);
-    - neuro-cultures 
+    - neuro-diversity as social movement (Labour Party Manifesto, 2016)
+    - neuro-cultures
 
-## biology and  somatic citizenship?
+>Many of us want to expand and diversify the available knowledges about the brain by offering critical perspectives on the brain and brain science that take the social and cultural as seriously as the biological. This is a critical task that deserves encouragement.
+
+Victoria Pitts-Taylor, http://socialtextjournal.org/periscope_article/neurocultures-manifesto/, 2012
+
+- problem for some body/affect theory: tends to de-situate scientific practice
+
+## Neuro-thought styles?
 
 > thought styles are emerging in many areas of contemporary biology that offer the opportunity for a new relationship between the human sciences and the life sciences. 
 
 Nikolas Rose, 'The Human Sciences in a Biological Age' 2013, 5
 
-## affect on ethics and understanding? 
-
-The social and human sciences need to grasp these operative philosophies of biology and biomedicine, to explore the ‘philosophies of life’ which they embody and the potential forms of life to which they may be linked. But more than this, our own disciplines need to grasp the shaping – and the all too frequent cramping – of human vitality, to engage with the sciences and play our part in addressing the local, national and global inequities that devastate the vital lives of so many of our fellow biological citizens. 23
+> The social and human sciences need to grasp these operative philosophies of biology and biomedicine, to explore the ‘philosophies of life’ which they embody and the potential forms of life to which they may be linked. But more than this, our own disciplines need to grasp the shaping – and the all too frequent cramping – of human vitality, to engage with the sciences and play our part in addressing the local, national and global inequities that devastate the vital lives of so many of our fellow biological citizens. 23
 
 Nikolas Rose, 'The Human Sciences in a Biological Age' 2013, 23
 
@@ -65,6 +76,6 @@ Nikolas Rose, 'The Human Sciences in a Biological Age' 2013, 23
 
 Larry Ray, 2016, 351   
 
-# methods for neuro
+# Sociological neuro-methods
 
 ## disease sociology (Montoya!); Michael Marmot; 

@@ -42,3 +42,6 @@
     - look at larry ray article
     - start with a dance;
     - ask them to sit comfortably ... 
+
+## Tue 13 Jun 2017 12:04:16 BST
+- did some slides last week; just fixing those up 
